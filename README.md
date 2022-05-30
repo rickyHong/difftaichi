@@ -4,7 +4,7 @@
 </div>        
 
 
-# DiffTaichi: Differentiable Programming for Physical Simulation (ICLR 2020)
+# DiffTaichi: Differentiable Programming for Physical Simulation (ICLR 2020), BigStep-ex-01
 
 *Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Frédo Durand*
 
